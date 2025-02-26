@@ -86,8 +86,8 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 />
 <img
     align="left" 
-    alt="Fedora" 
-    title="Fedora"
+    alt="Vim" 
+    title="Vim"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" 
