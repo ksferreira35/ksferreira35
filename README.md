@@ -54,24 +54,24 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 />
 <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="VsCode" 
+    title="VsCode"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Fedora" 
+    title="Fedora"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
