@@ -1,16 +1,99 @@
-## Hi there 👋
+# 👨‍💻 Kaiky Ferreira
 
-<!--
-**ksferreira35/ksferreira35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Graduando em Ciência da Computação | Linux | Python | Git | Redes`**
 
-Here are some ideas to get you started:
+Meu interesse por tecnologia começou cedo, influenciado pelo meu irmão, que trabalha na Red Hat. Aos 15 anos, adotei o Linux como meu sistema principal e, desde então, explorar seu funcionamento se tornou uma paixão. Minha distribuição favorita é o Fedora, pela inovação constante e por ser o upstream do RHEL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou cursando Ciências da Computação e me dedico a me aprimorar constantemente, buscando conhecimento por conta própria. Tenho certificados em áreas como Linux, Python, Java e Git, e gosto de entender sistemas profundamente, testar soluções e resolver problemas.
+
+Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/ksferreira35/">
+        <img 
+            alt="Linkedin" 
+            title="Account Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linke&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/ksferreira35?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total stars" 
+            title="Total stars on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
+    <a href="https://github.com/ksferreira35?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Followers on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
+                          
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
