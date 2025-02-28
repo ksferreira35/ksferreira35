@@ -6,7 +6,7 @@ Meu interesse por tecnologia começou cedo, influenciado pelo meu irmão, que tr
 
 Atualmente, estou cursando Ciências da Computação e me dedico a me aprimorar constantemente, buscando conhecimento por conta própria. Tenho certificados em áreas como Linux, Python, Java e Git, e gosto de entender sistemas profundamente, testar soluções e resolver problemas.
 
-Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
+Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ksferreira35/">
