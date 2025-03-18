@@ -111,6 +111,6 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=2105" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=2102" 
   />
 </p>
