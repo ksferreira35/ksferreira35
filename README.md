@@ -97,6 +97,12 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         />
+    <img
+        alt="Postman" 
+        title="Postman" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+        />
 </div>                                                  
 <br/>
 
