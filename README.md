@@ -58,8 +58,8 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
     title="Java"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>          
 <img
     align="left" 
     alt="VsCode" 
@@ -100,7 +100,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" 
 />
-                                              
+<img 
+    align="left" 
+    alt="Podman" 
+    title="Podman"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" 
+/>                                                      
 <br/>
 <br/>
 
