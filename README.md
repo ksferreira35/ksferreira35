@@ -20,7 +20,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Total stars" 
             title="Total stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=1235"
+            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=1225"
         />
     </a>
     <a href="https://github.com/ksferreira35?tab=followers">
