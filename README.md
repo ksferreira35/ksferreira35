@@ -27,7 +27,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Followers" 
             title="Followers on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=1231"
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=1235"
         />
     </a>
 </p>
@@ -103,6 +103,12 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
         />
+    <img 
+        alt="Postman" 
+        title="Postman" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+          
 </div>                                                  
 <br/>
 
