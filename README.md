@@ -104,8 +104,8 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
         />
     <img 
-        alt="Postman" 
-        title="Postman" 
+        alt="mongodb" 
+        title="mongodb" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           
