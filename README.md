@@ -107,8 +107,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         alt="mongodb" 
         title="mongodb" 
         width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-          
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+        />
+    <img 
+        alt="mongodb" 
+        title="mongodb" 
+        width="40px"    
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" 
+        />             
 </div>                                                  
 <br/>
 
@@ -116,7 +122,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 
 <p align="left">
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=2106" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=21078" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=2107" />
 </p>
 
 
