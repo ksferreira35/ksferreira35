@@ -110,8 +110,8 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
         />
     <img 
-        alt="mongodb" 
-        title="mongodb" 
+        alt="UML" 
+        title="UML" 
         width="40px"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" 
         />             
