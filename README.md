@@ -122,7 +122,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 
 <p align="left">
   <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=210623" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=21064" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=2104" />
 </p>
 
 
