@@ -20,14 +20,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Total stars" 
             title="Total stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=13225"
+            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=1325"
         />
     </a>
     <a href="https://github.com/ksferreira35?tab=followers">
         <img 
             alt="Followers" 
             title="Followers on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=121545"
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=12545"
         />
     </a>
 </p>
@@ -121,8 +121,8 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 ### 📊 Estatísticas
 
 <p align="left">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=2103" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=2103" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=212503" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=210543" />
 </p>
 
 
