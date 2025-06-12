@@ -37,40 +37,11 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 ### 🤖 Linguagens e Tecnologias
 
 <div align="left">
-    <img 
-        alt="Git" 
-        title="Git" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-        />
-    <img 
-        alt="Python" 
-        title="Python" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-        />
-    <img 
-        alt="Java" 
-        title="Java" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-        />
-    <img 
-        alt="VsCode" 
-        title="VsCode" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-        />
-    <img 
-        alt="Pycharm" 
-        title="Pycharm" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-        />
+    <!-- Sistema operacional e terminal -->
     <img 
         alt="Linux" 
         title="Linux" 
-        width="40px" 
+        width="40px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
         />
     <img 
@@ -85,44 +56,93 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"
         />
-    <img
+    <!-- Controle de versão e containers -->
+    <img 
+        alt="Git" 
+        title="Git" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+        />
+    <img 
         alt="Podman" 
         title="Podman" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg"
         />
-    <img
-        alt="Dcoker" 
+    <img 
+        alt="Docker" 
         title="Docker" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         />
-    <img
-        alt="Postman" 
-        title="Postman" 
+    <!-- Linguagens -->
+    <img 
+        alt="Python" 
+        title="Python" 
         width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+        />
+    <img 
+        alt="Java" 
+        title="Java" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+        />
+    <!-- Frameworks -->
+    <img 
+        alt="Spring" 
+        title="Spring" 
+        width="40px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+        />
+    <!-- IDEs -->
+    <img 
+        alt="Intellij IDEA" 
+        title="Intellij IDEA" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+        />
+    <img 
+        alt="Pycharm" 
+        title="Pycharm" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+        />
+    <img 
+        alt="VsCode" 
+        title="VsCode" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+        />
+    <!-- Bancos de dados -->
+    <img 
+        alt="MySQL" 
+        title="MySQL" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
         />
     <img 
         alt="mongodb" 
         title="mongodb" 
         width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
         />
+    <!-- Ferramentas de testes -->
+    <img 
+        alt="Postman" 
+        title="Postman" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+        />
+    <!-- Modelagem -->
     <img 
         alt="UML" 
-        title="UML" 
-        width="40px"    
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" 
+        title="UML"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"
         />
-    <img 
-    alt="MySQL" 
-    title="MySQL" 
-    width="40px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-    />  
-</div>                                                  
-<br/>
+</div>
+
 
 ### 📊 Estatísticas
 
