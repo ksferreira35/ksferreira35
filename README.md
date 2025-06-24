@@ -109,6 +109,12 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
         />
     <img 
+        alt="Eclipse" 
+        title="Eclipse" 
+        width="40px"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
+        />
+    <img 
         alt="VsCode" 
         title="VsCode" 
         width="40px" 
