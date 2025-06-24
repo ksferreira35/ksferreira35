@@ -88,13 +88,19 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
         />
-    <!-- Frameworks -->
+    <!-- Frameworks / Auxiliar -->
     <img 
         alt="Spring" 
         title="Spring" 
         width="40px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
         />
+    <img 
+        alt="Swagger" 
+        title="Swagger" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+    />
     <!-- IDEs -->
     <img 
         alt="Intellij IDEA" 
