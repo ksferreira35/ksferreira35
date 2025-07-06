@@ -20,14 +20,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Total stars" 
             title="Total stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=333025"
+            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=33325"
         />
     </a>
     <a href="https://github.com/ksferreira35?tab=followers">
         <img 
             alt="Followers" 
             title="Followers on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=2130607"
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=213607"
         />
     </a>
 </p>
@@ -164,14 +164,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
   <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      style="height: 200px; width: auto;" 
+      style="height: 180px; width: auto;" 
     />
   </a>
 
   <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact" 
-      style="height: 200px; width: auto;" 
+      style="height: 180px; width: auto;" 
     />
   </a>
 </div>
