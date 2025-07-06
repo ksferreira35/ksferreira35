@@ -158,9 +158,20 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=210607" />
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=210607" />
-</p>
 
 
+<div align="center">
+  <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      style="height: 200px; width: auto;" 
+    />
+  </a>
+
+  <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact" 
+      style="height: 200px; width: auto;" 
+    />
+  </a>
+</div>
