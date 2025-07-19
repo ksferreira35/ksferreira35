@@ -88,7 +88,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
         />
-    <!-- Frameworks / Auxiliar -->
+    <!-- Frameworks / Auxiliares -->
     <img 
         alt="Spring" 
         title="Spring" 
@@ -134,17 +134,23 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
         />
     <img 
-        alt="mongodb" 
-        title="mongodb" 
+        alt="MongoDB" 
+        title="MongoDB" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
         />
-    <!-- Ferramentas de testes -->
+    <!-- Ferramentas de testes e automação -->
     <img 
         alt="Postman" 
         title="Postman" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+        />
+    <img 
+        alt="Playwright" 
+        title="Playwright" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
         />
     <!-- Modelagem -->
     <img 
@@ -154,6 +160,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"
         />
 </div>
+
 
 
 ### 📊 Estatísticas
