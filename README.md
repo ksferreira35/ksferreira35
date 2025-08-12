@@ -170,14 +170,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 <div align="center">
   <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=125" 
+      src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=1245" 
       style="height: 180px; width: auto;" 
     />
   </a>
 
   <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=12345" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=123245" 
       style="height: 180px; width: auto;" 
     />
   </a>
