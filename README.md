@@ -132,13 +132,25 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         title="MySQL" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-        />
+    />
+    <img 
+        alt="PostgreSQL" 
+        title="PostgreSQL" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    />
     <img 
         alt="MongoDB" 
         title="MongoDB" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-        />
+    />
+    <img 
+        alt="DBeaver" 
+        title="DBeaver" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+    />
     <!-- Ferramentas de testes e automação -->
     <img 
         alt="Postman" 
