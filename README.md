@@ -177,19 +177,11 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 
 ### 📊 Estatísticas
 
-
 <div align="center">
-  <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=12445" 
-      style="width: 400px; height: auto;" 
-    />
-  </a>
-
-  <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=1232245" 
-      style="width: 400px; height: auto;" 
-    />
-  </a>
+    <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=12445" style="height: 180px; width: auto;" />
+    </a>
+    <a href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=1232245" style="height: 180px; width: auto;" />
+    </a>
 </div>
