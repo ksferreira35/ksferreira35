@@ -27,7 +27,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Followers" 
             title="Followers on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=123"
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=1234"
         />
     </a>
 </p>
@@ -204,7 +204,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
     <a 
         href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=1" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=4" 
             style="height: 180px; width: auto;" />
     </a>
 </div>
