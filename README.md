@@ -75,6 +75,19 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         />
+    <img 
+        alt="ArgoCD" 
+        title="ArgoCD" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg"
+        />
+    <!-- Mensageria -->
+    <img 
+        alt="RabbitMQ" 
+        title="RabbitMQ" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+        />
     <!-- Linguagens -->
     <img 
         alt="Python" 
@@ -188,6 +201,13 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         title="UML"
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"
+        />
+    <!-- Organização e colaboração -->
+    <img 
+        alt="Trello" 
+        title="Trello"
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
         />
 </div>
 
