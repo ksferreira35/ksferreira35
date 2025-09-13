@@ -236,7 +236,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
     <a 
         href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
         <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=4" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=42" 
             style="height: 180px; width: auto;" />
     </a>
 </div>
