@@ -157,7 +157,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
         />
-    <!-- Bancos de dados -->
+   <!-- Bancos de dados -->
     <img 
         alt="MySQL" 
         title="MySQL" 
@@ -175,6 +175,18 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         title="MongoDB" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    />
+    <img 
+        alt="Oracle" 
+        title="Oracle Database" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    />
+    <img 
+        alt="SQL Developer" 
+        title="SQL Developer" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
     />
     <img 
         alt="DBeaver" 
