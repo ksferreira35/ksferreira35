@@ -131,7 +131,13 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         title="Swagger" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
-    />
+        />
+    <img 
+        alt="Figma" 
+        title="Figma" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+        />
     <!-- IDEs -->
     <img 
         alt="Intellij IDEA" 
