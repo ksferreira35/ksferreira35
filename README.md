@@ -20,14 +20,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Total stars" 
             title="Total stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=12333234"
+            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=1"
         />
     </a>
     <a href="https://github.com/ksferreira35?tab=followers">
         <img 
             alt="Followers" 
             title="Followers on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=1234"
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=1"
         />
     </a>
 </p>
@@ -234,15 +234,16 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 ### 📊 Estatísticas
 
 <div align="center">
-    <a 
-        href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=1" style="height: 180px; width: auto;" />
-    </a>
-    <a 
-        href="https://github.com/ksferreira35" style="display: inline-block; vertical-align: top;">
-        <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&theme=tokyonight&layout=compact&random=42" 
-            style="height: 180px; width: auto;" />
-    </a>
+  <a href="https://github.com/ksferreira35">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    />
+  </a>
+  <a href="https://github.com/ksferreira35">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&layout=compact&langs_count=8&theme=tokyonight"
+    />
+  </a>
 </div>
