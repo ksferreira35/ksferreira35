@@ -233,17 +233,25 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="left">
+
+  <!-- Stats -->
   <a href="https://github.com/ksferreira35">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=ksferreira35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    <img
+      height="180em"
+      alt="GitHub Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ksferreira35&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react&bg_color=0A0F0B&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFE6"
     />
   </a>
+
+  <!-- Top Languages -->
   <a href="https://github.com/ksferreira35">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&layout=compact&langs_count=8&theme=tokyonight"
+    <img
+      height="180em"
+      alt="Top Langs"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&layout=compact&langs_count=8&hide_border=true&theme=react&bg_color=0A0F0B&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFE6&hide=Jupyter%20Notebook,Roff"
     />
   </a>
+
 </div>
+
