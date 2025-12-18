@@ -20,14 +20,14 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         <img 
             alt="Total stars" 
             title="Total stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&random=1"
+            src="https://custom-icon-badges.demolab.com/github/stars/ksferreira35?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/ksferreira35?tab=followers">
         <img 
             alt="Followers" 
             title="Followers on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=1"
+            src="https://custom-icon-badges.demolab.com/github/followers/ksferreira35?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&random=12"
         />
     </a>
 </p>
@@ -240,7 +240,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
     <img
       height="180em"
       alt="GitHub Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ksferreira35&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react&bg_color=0A0F0B&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFE6&random=1"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ksferreira35&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react&bg_color=0A0F0B&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFE6&random=12"
     />
   </a>
 
@@ -249,7 +249,7 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
     <img
       height="180em"
       alt="Top Langs"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&layout=compact&langs_count=8&hide_border=true&theme=react&bg_color=0A0F0B&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFE6&hide=Jupyter%20Notebook,Roff&random=1"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ksferreira35&layout=compact&langs_count=8&hide_border=true&theme=react&bg_color=0A0F0B&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFE6&hide=Jupyter%20Notebook,Roff&random=12"
     />
   </a>
 
