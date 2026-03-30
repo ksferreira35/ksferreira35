@@ -1,6 +1,6 @@
 # 👨‍💻 Kaiky Ferreira
 
-**`Graduando em Ciência da Computação | Desenvolvedor Back-end | Java | Spring | Linux | Python | Git | Redes | SQL | GitOps`**
+**`Graduando em Ciência da Computação | Desenvolvedor Back-end Java | APIs REST | Microsserviços | RabbitMQ | Kubernetes | Argo CD | Linux`**
 
 Meu interesse por tecnologia começou cedo, influenciado pelo meu irmão, que trabalha na Red Hat. Aos 15 anos, adotei o Linux como meu sistema principal e, desde então, explorar seu funcionamento se tornou uma paixão. Minha distribuição favorita é o Fedora, pela inovação constante e por ser o upstream do RHEL.
 
