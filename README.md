@@ -133,6 +133,11 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
         />
     <img 
+        alt="Manven"
+        title="Manven"
+        width="40px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+    <img 
         alt="Figma" 
         title="Figma" 
         width="40px" 
