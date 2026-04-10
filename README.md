@@ -232,6 +232,19 @@ Tenho inglês avançado e estou sempre em busca de novos desafios na tecnologia.
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
         />
+    <!-- Formato de dados -->
+    <img 
+        alt="JSON" 
+        title="JSON" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
+        />
+    <img 
+        alt="XML"
+        title="XML"
+        width="40px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" 
+        />  
 </div>
 
 
