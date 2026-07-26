@@ -4,6 +4,23 @@
   <style>
     .bg{fill:#ffffff;stroke:#d0d7de;stroke-width:2}.top{fill:#f6f8fa}.muted{fill:#57606a}.text{fill:#24292f}.main{fill:#24292f}.blue{fill:#0969da}.green{fill:#1a7f37}.yellow{fill:#9a6700}.red{fill:#cf222e}.line{stroke:#d8dee4;stroke-width:1}.barbg{fill:#eaeef2}.chip{fill:#f6f8fa;stroke:#d0d7de}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}.bold{font-weight:700}
   </style>
+  <defs>
+    <pattern id="backendFill" y="296" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="18" height="18" fill="#1a7f37"/>
+      <path d="M-5 18 5 0h5L0 18zm18 0L23 0h5L18 18z" fill="#ffffff" opacity=".13"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="18 0" dur="3.2s" repeatCount="indefinite"/>
+    </pattern>
+    <pattern id="infraFill" y="324" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="18" height="18" fill="#0969da"/>
+      <path d="M-5 18 5 0h5L0 18zm18 0L23 0h5L18 18z" fill="#ffffff" opacity=".12"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="18 0" dur="3.5s" repeatCount="indefinite"/>
+    </pattern>
+    <pattern id="frontendFill" y="352" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="18" height="18" fill="#9a6700"/>
+      <path d="M-5 18 5 0h5L0 18zm18 0L23 0h5L18 18z" fill="#ffffff" opacity=".11"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="18 0" dur="3.8s" repeatCount="indefinite"/>
+    </pattern>
+  </defs>
   <rect class="bg" x="1" y="1" width="998" height="648" rx="14"/>
   <path class="top" d="M15 1h970a14 14 0 0 1 14 14v39H1V15A14 14 0 0 1 15 1z"/>
   <circle cx="25" cy="27" r="6" class="red"/><circle cx="45" cy="27" r="6" class="yellow"/><circle cx="65" cy="27" r="6" class="green"/>
@@ -23,9 +40,9 @@
   <text x="535" y="205" class="mono muted" font-size="14">shipping</text><text x="650" y="205" class="mono main" font-size="14">containers + GitOps</text>
 
   <text x="34" y="276" class="mono blue bold" font-size="14">FOCUS LEVELS</text>
-  <text x="34" y="308" class="mono text" font-size="14">backend</text><rect x="145" y="296" width="245" height="14" rx="3" class="barbg"/><rect x="145" y="296" width="221" height="14" rx="3" class="green"/><text x="405" y="308" class="mono green" font-size="12">primary</text>
-  <text x="34" y="336" class="mono text" font-size="14">infra</text><rect x="145" y="324" width="245" height="14" rx="3" class="barbg"/><rect x="145" y="324" width="172" height="14" rx="3" class="blue"/><text x="405" y="336" class="mono blue" font-size="12">strong</text>
-  <text x="34" y="364" class="mono text" font-size="14">frontend</text><rect x="145" y="352" width="245" height="14" rx="3" class="barbg"/><rect x="145" y="352" width="74" height="14" rx="3" class="yellow"/><text x="405" y="364" class="mono yellow" font-size="12">supporting</text>
+  <text x="34" y="308" class="mono text" font-size="14">backend</text><rect x="145" y="296" width="245" height="14" rx="3" class="barbg"/><rect x="145" y="296" width="221" height="14" rx="3" fill="url(#backendFill)"><animate attributeName="width" from="0" to="221" dur="1.15s" begin="0s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect><text x="405" y="308" class="mono green" font-size="12">primary</text>
+  <text x="34" y="336" class="mono text" font-size="14">infra</text><rect x="145" y="324" width="245" height="14" rx="3" class="barbg"/><rect x="145" y="324" width="172" height="14" rx="3" fill="url(#infraFill)"><animate attributeName="width" from="0" to="172" dur="1.15s" begin="0.22s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect><text x="405" y="336" class="mono blue" font-size="12">strong</text>
+  <text x="34" y="364" class="mono text" font-size="14">frontend</text><rect x="145" y="352" width="245" height="14" rx="3" class="barbg"/><rect x="145" y="352" width="74" height="14" rx="3" fill="url(#frontendFill)"><animate attributeName="width" from="0" to="74" dur="1.05s" begin="0.44s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/></rect><text x="405" y="364" class="mono yellow" font-size="12">supporting</text>
 
   <text x="535" y="253" class="mono blue bold" font-size="14">LANGUAGES</text>
   <text x="535" y="288" class="mono muted" font-size="12">Programming</text><text x="650" y="288" class="mono main" font-size="13">Java · Python</text>
