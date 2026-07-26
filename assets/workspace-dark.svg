@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Kaiky Ferreira developer workspace</title>
+  <desc id="desc">Painel sobre Kaiky Ferreira, desenvolvedor backend Java, estudante de Ciência da Computação e usuário Fedora Linux.</desc>
+  <style>
+    .bg{fill:#0d1117;stroke:#30363d;stroke-width:2}.top{fill:#161b22}.muted{fill:#8b949e}.text{fill:#c9d1d9}.white{fill:#f0f6fc}.blue{fill:#58a6ff}.green{fill:#3fb950}.yellow{fill:#d29922}.red{fill:#f85149}.line{stroke:#30363d;stroke-width:1}.barbg{fill:#21262d}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}.bold{font-weight:700}
+  </style>
+  <rect class="bg" x="1" y="1" width="998" height="428" rx="14"/>
+  <path class="top" d="M15 1h970a14 14 0 0 1 14 14v39H1V15A14 14 0 0 1 15 1z"/>
+  <circle cx="25" cy="27" r="6" class="red"/><circle cx="45" cy="27" r="6" class="yellow"/><circle cx="65" cy="27" r="6" class="green"/>
+  <text x="500" y="33" text-anchor="middle" class="mono muted" font-size="14">kaiky@fedora: ~/workspace</text>
+  <text x="34" y="92" class="mono green bold" font-size="16">$ kaikyctl inspect --public</text>
+  <text x="34" y="130" class="mono blue bold" font-size="14">IDENTITY</text>
+  <text x="34" y="159" class="mono muted" font-size="14">name</text><text x="145" y="159" class="mono white" font-size="14">Kaiky Ferreira</text>
+  <text x="34" y="184" class="mono muted" font-size="14">role</text><text x="145" y="184" class="mono white" font-size="14">Backend Developer</text>
+  <text x="34" y="209" class="mono muted" font-size="14">runtime</text><text x="145" y="209" class="mono white" font-size="14">Ciência da Computação</text>
+  <text x="34" y="234" class="mono muted" font-size="14">system</text><text x="145" y="234" class="mono white" font-size="14">Fedora Linux</text>
+  <line x1="500" y1="115" x2="500" y2="380" class="line"/>
+  <text x="535" y="130" class="mono blue bold" font-size="14">CURRENT MISSION</text>
+  <text x="535" y="159" class="mono muted" font-size="14">building</text><text x="650" y="159" class="mono white" font-size="14">APIs e microsserviços</text>
+  <text x="535" y="184" class="mono muted" font-size="14">exploring</text><text x="650" y="184" class="mono white" font-size="14">sistemas distribuídos</text>
+  <text x="535" y="209" class="mono muted" font-size="14">shipping</text><text x="650" y="209" class="mono white" font-size="14">containers + GitOps</text>
+  <text x="34" y="282" class="mono blue bold" font-size="14">FOCUS LEVELS</text>
+  <text x="34" y="314" class="mono text" font-size="14">backend</text><rect x="145" y="302" width="275" height="14" rx="3" class="barbg"/><rect x="145" y="302" width="248" height="14" rx="3" class="green"/><text x="435" y="314" class="mono green" font-size="12">primary</text>
+  <text x="34" y="342" class="mono text" font-size="14">infra</text><rect x="145" y="330" width="275" height="14" rx="3" class="barbg"/><rect x="145" y="330" width="193" height="14" rx="3" class="blue"/><text x="435" y="342" class="mono blue" font-size="12">strong</text>
+  <text x="34" y="370" class="mono text" font-size="14">frontend</text><rect x="145" y="358" width="275" height="14" rx="3" class="barbg"/><rect x="145" y="358" width="82" height="14" rx="3" class="yellow"/><text x="435" y="370" class="mono yellow" font-size="12">supporting</text>
+  <text x="535" y="257" class="mono blue bold" font-size="14">ACTIVE SERVICES</text>
+  <circle cx="543" cy="287" r="5" class="green"/><text x="558" y="292" class="mono text" font-size="14">java.service</text><text x="910" y="292" text-anchor="end" class="mono green" font-size="12">active</text>
+  <circle cx="543" cy="317" r="5" class="green"/><text x="558" y="322" class="mono text" font-size="14">spring.api</text><text x="910" y="322" text-anchor="end" class="mono green" font-size="12">active</text>
+  <circle cx="543" cy="347" r="5" class="blue"/><text x="558" y="352" class="mono text" font-size="14">containers.runtime</text><text x="910" y="352" text-anchor="end" class="mono blue" font-size="12">ready</text>
+  <text x="34" y="405" class="mono muted" font-size="13">&gt; curiosidade não é feature; é o runtime.</text>
+  <text x="966" y="405" text-anchor="end" class="mono green" font-size="13">● SYSTEM ONLINE</text>
+</svg>
